@@ -7,7 +7,7 @@ import pandas as pd
 st.set_page_config(
     page_title="Titanic Survival Predictor",
     page_icon="🚢",
-    layout="centered"
+    layout="wide"
 )
 
 # Load model
